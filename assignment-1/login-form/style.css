@@ -1,0 +1,77 @@
+a {
+  color: gray;
+  font-weight: 600;
+}
+
+.form-container {
+  width: 1200px;
+  margin: 120px auto;
+  border-top: 1px solid;
+}
+
+.inner-card {
+  margin: 80px auto;
+  width: 600px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  height: 80px;
+}
+
+.welcome-msg h3 {
+  text-align: center;
+}
+
+.form-fields {
+  margin-top: 40px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-fields input {
+  width: 100%;
+  padding: 16px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+
+.login-btn {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.login-btn button {
+  padding: 16px 40px;
+  border: none;
+  border-radius: 40px;
+  font-size: 18px;
+  background: black;
+  color: white;
+}
+
+.sign-up {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.forgot-pwd {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.terms-and-conditions {
+  margin-top: 30px;
+  text-align: center;
+  color: lightgray;
+}
+
+.terms-and-conditions a {
+  color: lightgray;
+}
