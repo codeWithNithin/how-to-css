@@ -1,6 +1,6 @@
 # how-to-css
 
-# Assignment-1 output solutions
+# Assignment-1 solutions
 
 # Business Development screen
 
